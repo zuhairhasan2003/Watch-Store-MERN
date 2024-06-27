@@ -1,0 +1,4 @@
+Before executing the code for backend make sure to make a .env file in backend folder with the following content:
+PORT = 5000
+DB_CONNECTION_STRING = "mongodb://localhost:27017/watchStore"
+ADMIN_SECRET = "This is admin secret dont tell anyone"
